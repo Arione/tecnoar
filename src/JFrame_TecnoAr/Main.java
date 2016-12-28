@@ -142,7 +142,6 @@ public static void main(String args[])
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("TecnoAR - Sistema Administrativo");
-        setResizable(false);
 
         jlData.setFont(new java.awt.Font("Times New Roman", 0, 14)); // NOI18N
         jlData.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
